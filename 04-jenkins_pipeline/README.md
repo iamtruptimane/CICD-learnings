@@ -8,7 +8,7 @@ In the fast-paced world of software development, automating repetitive tasks is 
 
 Continuous Integration (CI) is the practice of regularly integrating code changes into a shared repository, while Continuous Deployment (CD) automates the testing and deployment of these changes. Jenkins Pipelines are the workflows that define how code moves through these integration and deployment stages.
 
-![Screenshot from 2023-12-20 15-38-05.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/28d73a5c-e0cd-4c22-ba97-f0a5b1a9c59f/58b80628-ca5b-4ab4-9655-a3b47b4b71c2/Screenshot_from_2023-12-20_15-38-05.png)
+![jenkins pipeline](https://github.com/iamtruptimane/CICD-learnings/tree/main/04-jenkins_pipeline/img)
 
 ### **Benefits of Jenkins CICD Pipelines:**
 

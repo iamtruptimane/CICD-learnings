@@ -6,3 +6,5 @@
 [03-CI_development environment](https://github.com/iamtruptimane/CICD-learnings/tree/main/03-CI%20(Development%20%20environment%20))
 
 [04-jenkins_installation](https://github.com/iamtruptimane/CICD-learnings/tree/main/04-jenkins_installation)
+
+[05-jenkins_pipeline](https://github.com/iamtruptimane/CICD-learnings/tree/main/04-jenkins_pipeline)
